@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Javier%20González&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Engineering&descSize=16&descAlignY=58&descColor=a8b4c8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Javier%20González&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&descColor=a8b4c8" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@ I'm a **Data Analytics professional** based in Panama, working on a Digital Tran
 - 🎓 **MSc. Data Analytics** — Universidad Tecnológica de Panamá (UTP)
 - 🏢 Currently building supply chain & inventory intelligence for a major retail chain
 - 📊 Passionate about turning raw operational data into clear business insight
-- 🚀 Learning: Python · dbt · Docker · AI/LLM Engineering · Claude API
+- 🚀 Currently learning: Python · dbt · Docker · Airflow · Claude API · LangGraph
 
 ---
 
@@ -53,16 +53,6 @@ I'm a **Data Analytics professional** based in Panama, working on a Digital Tran
 👉 **[View full portfolio →](https://github.com/javiergonzalez08/Power-BI-Portfolio)**
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiergonzalez08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javiergonzalez08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fc3f7&text_color=c9d1d9)
-
-</div>
 
 ---
 
