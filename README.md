@@ -44,13 +44,14 @@ I'm a **Data Analytics professional** based in Panama, working on a Digital Tran
 
 | Project | Domain | Tools |
 |---------|--------|-------|
-| 🚢 [Canal de Panamá — Transit Statistics](https://github.com/javiergonzalez08/Power-BI-Portfolio) | Logistics · Public Data | Power BI · DAX · Azure Maps |
-| 🦠 [COVID-19 — Global Epidemiological Dashboard](https://github.com/javiergonzalez08/Power-BI-Portfolio) | Public Health | Power BI · DAX · Bing Maps |
-| 💼 [Data Career Salaries](https://github.com/javiergonzalez08/Power-BI-Portfolio) | HR Analytics | Power BI · DAX · Power Query |
-| 🛒 [Brazilian E-Commerce — Olist](https://github.com/javiergonzalez08/Power-BI-Portfolio) | Retail · Logistics | Power BI · DAX · Bing Maps |
-| ☕ [Coffee Bean & Tea Leaf — Retail Sales](https://github.com/javiergonzalez08/Power-BI-Portfolio) | Retail | Power BI · DAX · Drill-through |
+| 🚢 [Canal de Panamá — Transit Statistics](https://github.com/javiergonzalez08/PowerBi-Portfolio) | Logistics · Public Data | Power BI · DAX · Azure Maps |
+| 🦠 [COVID-19 — Global Epidemiological Dashboard](https://github.com/javiergonzalez08/PowerBi-Portfolio) | Public Health | Power BI · DAX · Bing Maps |
+| 💼 [Data Career Salaries](https://github.com/javiergonzalez08/PowerBi-Portfolio) | HR Analytics | Power BI · DAX · Power Query |
+| 🛒 [Brazilian E-Commerce — Olist](https://github.com/javiergonzalez08/PowerBi-Portfolio) | Retail · Logistics | Power BI · DAX · Bing Maps |
+| ☕ [Coffee Bean & Tea Leaf — Retail Sales](https://github.com/javiergonzalez08/PowerBi-Portfolio) | Retail | Power BI · DAX · Drill-through |
+| 🔍 [Modelos Predictivos — Robos en Panamá](https://github.com/javiergonzalez08/Modelos_Predictivos) | Crime · Time Series | Python · ARIMA · statsmodels · Excel |
 
-👉 **[View full portfolio →](https://github.com/javiergonzalez08/Power-BI-Portfolio)**
+👉 **[View full Power BI portfolio →](https://github.com/javiergonzalez08/PowerBi-Portfolio)**
 
 ---
 
